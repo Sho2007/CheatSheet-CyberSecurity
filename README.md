@@ -9,4 +9,8 @@ section 2 - SQL injection
   - POST METHOD
   - UNION SQL injection
 
-section 3 - XSS ( but soon! )
+section 3 - REVERSE SHELL
+  - os injection
+  - unresticted file upload ( normal & image upload )
+
+section 4 - XSS ( but soon! )
